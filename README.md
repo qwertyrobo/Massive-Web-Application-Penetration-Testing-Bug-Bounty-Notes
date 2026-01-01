@@ -208,4 +208,4 @@ This guide is designed for both beginners and experienced penetration testers. I
 
 ENJOY & HAPPY LEARNING\! ♥
 
-### Follow me on LinkedIn: [@xalgord](https://www.linkedin.com/in/xalgord/)
+### Follow me on LinkedIn: www.linkedin.com/in/akmalshaik
